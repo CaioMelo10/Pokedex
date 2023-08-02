@@ -17,10 +17,10 @@ Bem-vindo à Pokédex! Explore o fascinante mundo dos Pokémon com este aplicati
 
 A PokéAPI é uma API gratuita e aberta que fornece dados e informações sobre o mundo dos Pokémon. Ela permite que os desenvolvedores acessem informações detalhadas sobre diferentes espécies de Pokémon, habilidades, estatísticas, evoluções e muito mais. É amplamente utilizada na comunidade de desenvolvedores de Pokémon para criar aplicativos, jogos e sites relacionados a Pokémon.
 
-## Confira
+## 👥Confira: 
+https://caiomelo10.github.io/Pokedex/
 
-
-  <img src="./images/poke.jpg" >
+<img src="./images/poke.jpg" >
 
 
 
